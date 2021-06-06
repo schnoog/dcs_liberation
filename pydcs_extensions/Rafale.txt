@@ -1,0 +1,9 @@
+AG: 'Rafale_A_S'  'Rafale_M AIR/SOL'
+--
+AG: 'Rafale_B'    'Rafale_B' - Biplace
+--
+AA: 'Rafale_C'    'Rafale_C' 
+--
+AA: 'Rafale_M'    'Rafale_M AIR/AIR'
+--
+TANKER: 'Rafale_M_NOUNOU'  'Rafale_M_NOUNOU'
