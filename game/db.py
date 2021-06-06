@@ -184,6 +184,13 @@ plane_map["MB-339PAN"] = MB_339PAN
 plane_map["Su-57"] = Su_57
 plane_map["Hercules"] = Hercules
 
+plane_map["Rafale_A_S"] = Rafale_A_S
+plane_map["Rafale_M"] = Rafale_M
+plane_map["Rafale_C"] = Rafale_C
+plane_map["Rafale_B"] = Rafale_B
+plane_map["Rafale_M_NOUNOU"] = Rafale_M_NOUNOU
+
+
 vehicle_map["FieldHL"] = frenchpack._FIELD_HIDE
 vehicle_map["HARRIERH"] = frenchpack._FIELD_HIDE_SMALL
 vehicle_map["SMOKESAM"] = frenchpack.SMOKE_SAM_IR
@@ -471,6 +478,13 @@ PRICES = {
     C_130: 25,
     Hercules: 25,
     C_17A: 20,
+	#Rafael
+    Rafale_A_S:13,
+    Rafale_M:15,
+    Rafale_C:13,
+    Rafale_B:13,
+    Rafale_M_NOUNOU:15,
+
     # WW2
     P_51D_30_NA: 18,
     P_51D: 16,
@@ -772,6 +786,10 @@ UNIT_BY_TASK = {
         Mirage_2000_5,
         P_51D,
         P_51D_30_NA,
+		Rafale_A_S,
+		Rafale_B,
+		Rafale_C,
+		Rafale_M,
         SA342Mistral,
         SpitfireLFMkIX,
         SpitfireLFMkIXCW,
@@ -779,6 +797,10 @@ UNIT_BY_TASK = {
         Su_30,
         Su_33,
         Su_57,
+		Rafale_A_S,
+        Rafale_B,
+        Rafale_C,
+        Rafale_M,
     ],
     CAS: [
         AH_1W,
@@ -849,6 +871,7 @@ UNIT_BY_TASK = {
         KC135MPRS,
         KC_135,
         S_3B_Tanker,
+		Rafale_M_NOUNOU,
     ],
     AWACS: [
         A_50,
