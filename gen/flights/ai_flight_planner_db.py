@@ -162,7 +162,7 @@ s    J_11A,
     P_47D_30bl1,
     P_47D_40,
     I_16,
-	Rafale_A_S,
+	Rafale_B,
 	Rafale_C,
 	Rafale_M,
 ]
@@ -234,8 +234,7 @@ CAS_CAPABLE = [
     WingLoong_I,
     MQ_9_Reaper,
     RQ_1A_Predator,
-	Rafale_B,
-	Rafale_M,
+	Rafale_A_S,
 ]
 
 
@@ -258,8 +257,7 @@ SEAD_CAPABLE = [
     Su_30,
     MiG_27K,
     Tornado_GR4,
-	Rafale_B,
-	Rafale_M,
+	Rafale_A_S,
 ]
 
 
@@ -304,8 +302,7 @@ STRIKE_CAPABLE = [
     F_14B,
     F_14A_135_GR,
     Tornado_IDS,
-	Rafale_B,
-	Rafale_M,
+	Rafale_A_S,
     Su_17M4,
     Su_24MR,
     Su_24M,
@@ -368,8 +365,7 @@ ANTISHIP_CAPABLE = [
     Ju_88A4,
     C_101CC,
     SH_60B,
-	Rafale_B,
-	Rafale_M,
+	Rafale_A_S,
 ]
 
 
