@@ -48,7 +48,7 @@ class WeaponsRafale_M:
     TALIOS_THALES = {"clsid": "{TALIOS_THALES}", "name": "TALIOS_THALES", "weight": 265}
 
 
-inject_weapons(WeaponsRafale_M:)
+inject_weapons(WeaponsRafale_M)
 
 
 class Rafale_M(PlaneType):

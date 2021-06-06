@@ -20,7 +20,7 @@ class WeaponsRafale_M_NOUNOU:
     Smokewinder___orange = {"clsid": "{A4BCC903-06C8-47bb-9937-A30FEDB4E746}", "name": "Smokewinder - orange", "weight": 200}
 
 
-inject_weapons(WeaponsRafale_M_NOUNOU:)
+inject_weapons(WeaponsRafale_M_NOUNOU)
 
 
 class Rafale_M_NOUNOU(PlaneType):
