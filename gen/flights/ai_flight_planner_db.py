@@ -75,6 +75,10 @@ from dcs.planes import (
     P_47D_40,
     P_51D,
     P_51D_30_NA,
+    Rafale_A_S,
+	Rafale_B,
+	Rafale_C,
+	Rafale_M,
     RQ_1A_Predator,
     S_3B,
     SpitfireLFMkIX,
@@ -125,7 +129,7 @@ CAP_CAPABLE = [
     Su_33,
     Su_30,
     Su_27,
-    J_11A,
+s    J_11A,
     F_15C,
     MiG_29S,
     MiG_29G,
@@ -158,6 +162,9 @@ CAP_CAPABLE = [
     P_47D_30bl1,
     P_47D_40,
     I_16,
+	Rafale_A_S,
+	Rafale_C,
+	Rafale_M,
 ]
 
 
@@ -227,6 +234,8 @@ CAS_CAPABLE = [
     WingLoong_I,
     MQ_9_Reaper,
     RQ_1A_Predator,
+	Rafale_B,
+	Rafale_M,
 ]
 
 
@@ -249,6 +258,8 @@ SEAD_CAPABLE = [
     Su_30,
     MiG_27K,
     Tornado_GR4,
+	Rafale_B,
+	Rafale_M,
 ]
 
 
@@ -293,6 +304,8 @@ STRIKE_CAPABLE = [
     F_14B,
     F_14A_135_GR,
     Tornado_IDS,
+	Rafale_B,
+	Rafale_M,
     Su_17M4,
     Su_24MR,
     Su_24M,
@@ -355,6 +368,8 @@ ANTISHIP_CAPABLE = [
     Ju_88A4,
     C_101CC,
     SH_60B,
+	Rafale_B,
+	Rafale_M,
 ]
 
 

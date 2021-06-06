@@ -797,10 +797,6 @@ UNIT_BY_TASK = {
         Su_30,
         Su_33,
         Su_57,
-		Rafale_A_S,
-        Rafale_B,
-        Rafale_C,
-        Rafale_M,
     ],
     CAS: [
         AH_1W,
@@ -1301,6 +1297,7 @@ CARRIER_CAPABLE = [
     SA342M,
     SA342Minigun,
     SA342Mistral,
+    Rafale_M,
 ]
 
 LHA_CAPABLE = [
